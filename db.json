@@ -1,0 +1,24 @@
+{
+"products" :[
+{"id":1,"name":"African ground squirrel (unidentified)","category":"Fuscia"},
+{"id":2,"name":"Green-winged macaw","category":"Fuscia"},
+{"id":3,"name":"Rat, arboral spiny","category":"Aquamarine"},
+{"id":4,"name":"Seal, southern elephant","category":"Goldenrod"},
+{"id":5,"name":"Violet-eared waxbill","category":"Aquamarine"},
+{"id":6,"name":"Shrike, southern white-crowned","category":"Indigo"},
+{"id":7,"name":"Bustard, kori","category":"Teal"},
+{"id":8,"name":"Mynah, indian","category":"Blue"},
+{"id":9,"name":"Malabar squirrel","category":"Indigo"},
+{"id":10,"name":"Tern, royal","category":"Maroon"},
+{"id":11,"name":"Two-toed tree sloth","category":"Indigo"},
+{"id":12,"name":"Godwit, hudsonian","category":"Teal"},
+{"id":13,"name":"Crested barbet","category":"Green"},
+{"id":14,"name":"Otter, cape clawless","category":"Goldenrod"},
+{"id":15,"name":"Pygmy possum","category":"Indigo"},
+{"id":16,"name":"Savannah deer","category":"Pink"},
+{"id":17,"name":"Blue crane","category":"Crimson"},
+{"id":18,"name":"Southern black-backed gull","category":"Turquoise"},
+{"id":19,"name":"Hyrax","category":"Fuscia"},
+{"id":20,"name":"Heron, striated","category":"Khaki"}
+]
+}
