@@ -1,24 +1,83 @@
 {
-"products" :[
-{"id":1,"name":"African ground squirrel (unidentified)","category":"Fuscia"},
-{"id":2,"name":"Green-winged macaw","category":"Fuscia"},
-{"id":3,"name":"Rat, arboral spiny","category":"Aquamarine"},
-{"id":4,"name":"Seal, southern elephant","category":"Goldenrod"},
-{"id":5,"name":"Violet-eared waxbill","category":"Aquamarine"},
-{"id":6,"name":"Shrike, southern white-crowned","category":"Indigo"},
-{"id":7,"name":"Bustard, kori","category":"Teal"},
-{"id":8,"name":"Mynah, indian","category":"Blue"},
-{"id":9,"name":"Malabar squirrel","category":"Indigo"},
-{"id":10,"name":"Tern, royal","category":"Maroon"},
-{"id":11,"name":"Two-toed tree sloth","category":"Indigo"},
-{"id":12,"name":"Godwit, hudsonian","category":"Teal"},
-{"id":13,"name":"Crested barbet","category":"Green"},
-{"id":14,"name":"Otter, cape clawless","category":"Goldenrod"},
-{"id":15,"name":"Pygmy possum","category":"Indigo"},
-{"id":16,"name":"Savannah deer","category":"Pink"},
-{"id":17,"name":"Blue crane","category":"Crimson"},
-{"id":18,"name":"Southern black-backed gull","category":"Turquoise"},
-{"id":19,"name":"Hyrax","category":"Fuscia"},
-{"id":20,"name":"Heron, striated","category":"Khaki"}
-]
+  "products": [
+    {
+      "id": "1",
+      "nama": "kepiting pedas",
+      "Harga": "IDR80000",
+      "image": "menu/kepiting.jpg"
+    },
+    {
+      "id": "2",
+      "nama": "Sup ikan Tunapedas",
+      "Harga": "IDR200000",
+      "image": "menu/sup-ikan-tuna-kuah-pedas.jpg"
+    },
+    {
+      "id": "3",
+      "nama": "ikan bakar",
+      "Harga": "IDR30000",
+      "image": "menu/images.jpg"
+    },
+    {
+      "id": "4",
+      "nama": "Rendang Sapi",
+      "Harga": "IDR50000",
+      "image": "menu/rendang.jpg"
+    },
+    {
+      "id": "5",
+      "nama": "Kopak",
+      "Harga": "IDR35000",
+      "image": "menu/kopak6.jpg"
+    },
+    {
+      "id": "6",
+      "nama": "Sate Keong",
+      "Harga": "IDR40000",
+      "image": "menu/satekeong.jpg"
+    },
+    {
+      "id": "7",
+      "nama": "Gonggong pedass",
+      "Harga": "IDR60000",
+      "image": "menu/makanan.jpg"
+    },
+    {
+      "id": "8",
+      "nama": "Sop Ikan Gurami",
+      "Harga": "IDR40000",
+      "image": "https://img-global.cpcdn.com/003_recipes/a6e1c422e0ac0740/751x532cq70/photo.jpg"
+    },
+    {
+      "id": "9",
+      "nama": "Ikan pare Asap",
+      "Harga": "IDR40000",
+      "image": "https://img-global.cpcdn.com/003_recipes/e67eb1e1bae745de/751x532cq70/photo.jpg"
+    },
+
+     {
+      "id": "10",
+      "nama": "Kolak Pisang",
+      "Harga": "IDR20000",
+      "image": "https://scontent.fkno3-1.fna.fbcdn.net/v/t1.0-9/30261565_2011153672430674_1285166270197094963_n.jpg?_nc_cat=104&_nc_ht=scontent.fkno3-1.fna&oh=5e1be8b7bcfb568aef093c02a4cd315b&oe=5CF4A977"
+    },
+    {
+      "id": "11",
+      "nama": "Es Cendol Nangka",
+      "Harga": "IDR20000",
+      "image": "https://scontent.fkno3-1.fna.fbcdn.net/v/t1.0-9/12512424_208219226219082_3318211360603165697_n.jpg?_nc_cat=106&_nc_ht=scontent.fkno3-1.fna&oh=153e66531a47a9d7025b1d46085bb21f&oe=5CFCDAEC"
+    },
+    {
+      "id": "12",
+      "nama": "Anggur Apel Squash",
+      "Harga": "IDR20000",
+      "image": "https://scontent.fkno3-1.fna.fbcdn.net/v/t1.0-9/12670774_185632951811043_8884105533100211051_n.jpg?_nc_cat=110&_nc_ht=scontent.fkno3-1.fna&oh=ca2d8abd13281738a9cb1098cffc9fde&oe=5CE82174"
+    },
+    {
+      "id": "13",
+      "nama": "Ice Blue Ocean",
+      "Harga": "IDR18000",
+      "image": "http://cdn2.tstatic.net/style/foto/bank/images/ice-blue-ocean_20171212_205019.jpg"
+    }
+  ]
 }
